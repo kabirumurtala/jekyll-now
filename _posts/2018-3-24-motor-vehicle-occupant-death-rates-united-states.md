@@ -125,10 +125,6 @@ plotGender <- plotGender + theme_stata() + theme(
 
 ```
 
-```{r, echo=FALSE}
-grid.arrange(plotAge, plotGender,ncol=2)
-```
-
 ## Motor Vehicle Occupant Death Rates, by States, 2014
 In 2014, the fatality rate per 100,000 people ranged from 2.3 in Rhode Island to 21.9 in Wyoming. Rhode Island, Hawaii, New York, Massachusetts, New Jersey, Connecticut, California, Maryland, Vermont, New Hampshire, and Illinois all had fatality rates less than 5.1 per 100,000 people. Mississippi and Wyoming occupied the opposite end of the spectrum with fatality rates above 15.0 per 100,000 people.
 
