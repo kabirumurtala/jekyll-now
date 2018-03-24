@@ -21,7 +21,6 @@ Males (9.2 deaths per 100,000 population) were also more likely to die from moto
 females (4.5 deaths per 100,000 population).
 
 ```{r, eval=FALSE, echo=FALSE}
-###Motor Vehicle Occupant Death Rate, by Age, Gender, and State: 2014
 
 #Rate of deaths by age/gender (per 100,000 population) 
 #Source: Fatality Analysis Reporting System (FARS) 
@@ -36,7 +35,7 @@ library(rgdal)
 library(RColorBrewer)
 library(ggplot2)
 library(ggthemes)
-library(grid)
+library(gridExtra)
 library(tidyr)
 
 death <- read.csv("~/DevHealthReport R FIles/Motor Vehicle Occupant Death/MVO.csv", 
@@ -124,6 +123,10 @@ plotGender <- plotGender + theme_stata() + theme(
     panel.margin.y=unit(1.2,"lines"),
     panel.margin=unit(0,"lines"))
 
+```
+
+```{r, echo=FALSE}
+grid.arrange(plotAge, plotGender,ncol=2)
 ```
 
 ## Motor Vehicle Occupant Death Rates, by States, 2014
