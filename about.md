@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am who I am!
+Advisor, analyst, physician. Working at the interface of science and business. Focused on strategy, innovation and technology.
 
-### More Information
+### Interests
 
-Page under construction: Check back later.
+Open Data, Data Science, Dataviz, Machine Learning, Artificial Intelligence, Public Health
 
-### Contact me
-
-[kmurtala@yahoo.com](mailto:kmurtala@yahoo.com)
