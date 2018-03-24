@@ -23,4 +23,5 @@ females (4.5 deaths per 100,000 population).
 ## Motor Vehicle Occupant Death Rates, by States, 2014
 In 2014, the fatality rate per 100,000 people ranged from 2.3 in Rhode Island to 21.9 in Wyoming. Rhode Island, Hawaii, New York, Massachusetts, New Jersey, Connecticut, California, Maryland, Vermont, New Hampshire, and Illinois all had fatality rates less than 5.1 per 100,000 people. Mississippi and Wyoming occupied the opposite end of the spectrum with fatality rates above 15.0 per 100,000 people.
 
-[^1] Data was obtained from Fatality Analysis Reporting System (FARS), National Highway Traffic Safety Administration. More information on the data collection methods and procedures can be found [here](https://www.nhtsa.gov/research-data).
+### Data Source
+Data was obtained from Fatality Analysis Reporting System (FARS), National Highway Traffic Safety Administration. More information on the data collection methods and procedures can be found [here](https://www.nhtsa.gov/research-data).
