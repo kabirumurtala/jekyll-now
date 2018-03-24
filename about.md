@@ -9,10 +9,10 @@ Working at the interface of science and business.
 Focused on strategy, innovation and technology.
 
 ### Interests
- *Open Data 
- *Data Science 
- *Dataviz 
- *Machine Learning 
- *Artificial Intelligence 
- *Public Health 
+ * Open Data 
+ * Data Science 
+ * Dataviz 
+ * Machine Learning 
+ * Artificial Intelligence 
+ * Public Health 
 
