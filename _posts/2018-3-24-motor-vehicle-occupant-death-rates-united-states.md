@@ -20,7 +20,7 @@ In 2014, people aged 21-34 had the highest motor vehicle occupant death rate wit
 Males (9.2 deaths per 100,000 population) were also more likely to die from motor vehicle crashes, compared to 
 females (4.5 deaths per 100,000 population).
 
-```{r, eval=FALSE}
+```{r, eval=FALSE} 
 url <- "https://github.com/kabirumurtala/kabirumurtala.github.io/blob/master/_posts/data/mva.rds?raw=true
 "
 dataFile <- gzcon(url(url))
