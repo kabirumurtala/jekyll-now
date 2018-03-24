@@ -12,5 +12,5 @@ Data from the [National Highway Traffic Safety Administration](https://www.nhtsa
 
 Data showed significant differences in the motor vehicle occupant death rate among different age groups and between males and females. Also, the motor vehicle occupant death rate varied widely among the 50 states.
 
-##Motor Vehicle Occupant Death Rates, by Age and Gender, 2014
+## Motor Vehicle Occupant Death Rates, by Age and Gender, 2014
 In 2014, people aged 21-34 had the highest motor vehicle occupant death rate with 10.1 deaths per 100,000 population. Males (9.2 deaths per 100,000 population) were also more likely to die from motor vehicle crashes, compared to females (4.5 deaths per 100,000 population).
