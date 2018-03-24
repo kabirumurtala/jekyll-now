@@ -11,7 +11,7 @@ Focused on strategy, innovation and technology.
 ### Interests
  * Open Data 
  * Data Science 
- * Dataviz 
+ * Data Visualization 
  * Machine Learning 
  * Artificial Intelligence 
  * Public Health 
