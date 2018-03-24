@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Advisor, analyst, physician. Working at the interface of science and business. Focused on strategy, innovation and technology.
+Advisor, analyst, physician.  Working at the interface of science and business.  Focused on strategy, innovation and technology.
 
 ### Interests
 
