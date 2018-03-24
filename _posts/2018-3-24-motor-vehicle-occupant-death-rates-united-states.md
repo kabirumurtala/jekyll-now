@@ -3,6 +3,9 @@ layout: post
 title: Motor vehicle occupant death rates in the United States
 categories: r blogging
 tags: Accidental DeathAutomobile SafetyInjury DeathMortalityTraffic CrashTraffic DeathsTraffic Fatalities
+output: 
+  md_document:
+    variant: markdown_github
 ---
 
 Data from the [National Highway Traffic Safety Administration](https://www.nhtsa.gov/), showed that 32,675 people in the 
