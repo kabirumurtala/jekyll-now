@@ -9,7 +9,7 @@ In 2014, people aged 21-34 had the highest motor vehicle occupant death rate wit
 
 ![MVA Death Rates by Age](figure/mva2-1.png)
 
-<p><img src="figure/mva2-1.png" alt="MVA Death Rates by Age" title="MVA Death Rates by Age" width="100%" height="500px"/></p>
+<p><img src="figure/mva2-1.png" alt="MVA Death Rates by Age" title="MVA Death Rates by Age"/></p>
 
 ![MVA Death Rates by Gender](figure/mva3-1.png)
 
