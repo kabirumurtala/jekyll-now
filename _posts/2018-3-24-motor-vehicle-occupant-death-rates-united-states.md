@@ -8,8 +8,6 @@ Motor Vehicle Occupant Death Rates, by Age and Gender, 2014
 In 2014, people aged 21-34 had the highest motor vehicle occupant death rate with 10.1 deaths per 100,000 population. Males (9.2 deaths per 100,000 population) were also more likely to die from motor vehicle crashes, compared to females (4.5 deaths per 100,000 population).
 
 ![MVA Death Rates by Age](figure/mva2-1.png)
-
-
 ![MVA Death Rates by Gender](figure/mva3-1.png)
 
 
