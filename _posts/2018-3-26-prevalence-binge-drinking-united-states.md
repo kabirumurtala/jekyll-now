@@ -1,8 +1,11 @@
+Prevalence of binge drinking in the United States
+===================
+
 Binge drinking is defined as consuming five or more alcoholic drinks on one or more occasion for males, and four or more alcoholic drinks on one or more occasion for females.
 
 Binge drinking is a risk factor for unintentional injuries (e.g., motor vehicle crashes, fatal burns, fatal falls, and drownings), suicide, homicides, sexual assaults, hypertension, acute myocardial infarction, stroke, bleeding stomach ulcers, sleep disorders, depression, sexually transmitted diseases, unintended pregnancy, fetal alcohol syndrome, and sudden infant death syndrome.
 
-![](2018-3-26-prevalence-binge-drinking-united-states_files/figure-markdown_github/binge2-1.png)
+![Prevalence of binge drinking by state](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/binge2-1.png)
 
 The map shows that areas with the highest prevalence of binge drinking are states in the Midwest (Illinois, Iowa, Michigan, Minnesota, Nebraska, North Dakota, Ohio, and Wisconsin) and the Northeast (Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont), all having values greater than 18.1 percent of the population.
 
