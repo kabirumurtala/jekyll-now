@@ -1,4 +1,5 @@
-title: "Prevalence of drinking in the United States"
+Prevalence of drinking in the United States
+===================
 
 Binge drinking is defined as consuming five or more alcoholic drinks on one or more occasion for males, and four or more alcoholic drinks on one or more occasion for females.
 
