@@ -9,6 +9,3 @@ The map shows that areas with the highest prevalence of binge drinking are state
 Alabama, Kentucky, Mississippi, Oklahoma, Tennessee, Utah, West Virginia have the lowest prevalence of binge drinking, all having values between 10.1 – 14.0 percent of the population.
 
 Data was obtained from the Behavioral Risk Factor Surveillance System (BRFSS) 2014. BRFSS is a state-based surveillance system that collects information of the non-institutionalized civilian population in the U.S. using random-digit–dialed landline and cellular phones. More information on the sampling methodology can be found [here](https://www.cdc.gov/brfss/).
-
-
-
