@@ -1,3 +1,5 @@
+title: "Prevalence of drinking in the United States"
+
 Binge drinking is defined as consuming five or more alcoholic drinks on one or more occasion for males, and four or more alcoholic drinks on one or more occasion for females.
 
 Binge drinking is a risk factor for unintentional injuries (e.g., motor vehicle crashes, fatal burns, fatal falls, and drownings), suicide, homicides, sexual assaults, hypertension, acute myocardial infarction, stroke, bleeding stomach ulcers, sleep disorders, depression, sexually transmitted diseases, unintended pregnancy, fetal alcohol syndrome, and sudden infant death syndrome.
