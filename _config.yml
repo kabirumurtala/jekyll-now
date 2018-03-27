@@ -1,6 +1,8 @@
 #
 # This file contains configuration flags to customize your site
 #
+#theme
+theme: jekyll-theme-dinky
 
 # Name of your site (displayed in the header)
 name: From data to insights!
