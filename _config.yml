@@ -83,5 +83,3 @@ exclude:
   - README.md
   - CNAME
 
-#theme
-theme: jekyll-theme-dinky
