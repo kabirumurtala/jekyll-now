@@ -4,6 +4,8 @@ In all 50 states, drivers are considered to be alcohol impaired when their blood
 
 The map below shows the impaired driving death rates with BAC &gt; 0.08 in 2012 by states.
 
+![Impaired Driving Death Rates with BAC > 0.08%, United States 2012](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/ImpairedDriving.png)
+
 Utah, New York, New Jersey, Massachusetts and California had the lowest impaired driving death rates with values between 0.1% to 2.0% per 100,000 population. Montana (8.1% - 10% ) and North Dakota (10.1% - 12.0%) had the highest impaired driving death rates per 100,000 population. There was incomplete data for Alaska.
 
 Data Source
