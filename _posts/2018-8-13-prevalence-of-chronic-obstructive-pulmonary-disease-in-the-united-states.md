@@ -1,6 +1,6 @@
 Chronic Obstructive Pulmonary Disease, or COPD, refers to a group of progressive lung diseases that cause obstruction of the airway, making it hard to empty air out of the lungs. It includes emphysema, chronic bronchitis, and in some cases a combination of both conditions.
 
-Symptoms of COPD include difficulty with breathing, cough which may be associated with mucus (sputum) production, wheezing, and easy fatigability.
+Symptoms of COPD include difficulty with breathing, cough which may be associated with mucus production, wheezing, and easy fatigability.
 
 Smoking of tobacco products is the most common cause of COPD in the US. Other causes include exposure to air pollutants, genetic factors (alpha-1-antitrypsin deficiency), and recurrent respiratory infections.
 
