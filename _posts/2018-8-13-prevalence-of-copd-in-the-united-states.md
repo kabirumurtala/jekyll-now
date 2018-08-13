@@ -6,6 +6,9 @@ Smoking of tobacco products is the most common cause of COPD in the US. Other ca
 
 In the United States, it is estimated that more than 15 million Americans have COPD. Hawaii, Utah, and Colorado had the lowest prevalence rates of COPD with values between 2.1% and 4.0%. Kentucky (10.1% - 12% ) and West Virginia (12.1% - 14.0%) had the highest prevalence rates.
 
+![Age Adjusted Prevalence of Chronic Obstructive Pulmonary Disease in the United States 2014](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/copd.png)
+
+
 Data Source
 -----------
 
