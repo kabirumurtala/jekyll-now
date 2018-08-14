@@ -2,19 +2,19 @@ Cardiovascular disease is the leading cause of death for both men and women in t
 
 2013 data displayed in the map above shows that Alaska, Colorado, Minnesota, and New Mexico, had the lowest major cardiovascular disease mortality rates with values between 201 - 250 deaths per 100,000 people. Major cardiovascular disease mortality rates were highest in the South with Alabama, Arkansas, Louisiana, Mississippi, Missouri, Oklahoma, and Tennessee having values greater than 350 deaths per 100,000 people.
 
-Image1
+![Rate of major cardiovascular disease mortality among adults in the United States by state, 2013](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/adultCVD1.png)
 
 Non-Hispanic Blacks have the highest rate of major cardiovascular disease mortality among adults in the United States, followed by Non-Hispanic Whites, Hispanics, and "Other races/ethnic groups" in decreasing order. Between 2001 and 2013, Non-Hispanic Blacks had the biggest drop in mortality rates among all ethnic groups (35.4%), followed by Hispanics (34.9%), Non-Hispanic Whites (33.5%) and Other races/ethnic groups (29.9%).
 
-Image2
+![Rate of major cardiovascular disease mortality among adults in the United States by Race, 2001-2013](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/adultCVD2.png)
 
 We can also see that nationally, the prevalence of major cardiovascular disease mortality was higher in males than in females. Between 2001 and 2013, males had a drop in mortality rates of about 31.8% and females about 37.7%.
 
-Image3
+![Rate of major cardiovascular disease mortality among adults in the United States by Gender, 2001-2013](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/adultCVD3.png)
 
 Major cardiovascular disease mortality rates was significantly higher for the oldest age group (65+). However, from 2001 to 2013, a downward trend can be observed in mortality among adults 65+ years, with a 34.6% decline.
 
-Image4
+![Rate of major cardiovascular disease mortality among adults in the United States by Age, 2001-2013](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/adultCVD4.png)
 
 Data Source
 -----------
