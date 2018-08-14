@@ -26,7 +26,7 @@ Overall, more women (13.5%) than men (10.7% ) had high serum total cholesterol. 
 
 ![Error bars represent 95% confidence intervals](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/cholesterol4.png)
 
-![Error bars represent 95% confidence intervals](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/cholesterol4.png)
+![Error bars represent 95% confidence intervals](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/cholesterol5.png)
 
 For men and women age 20-39 years, there are no significant differences in the prevalence of serum total cholesterol levels among the three different races. For men age 40-59 years, the prevalence of high serum total cholesterol was lower in non-Hispanic Blacks (10.1%) than in Hispanics (18.8%), however this difference was not seen in women. Among men 60 years and older, Hispanics (13.6%) had higher prevalence of high serum total cholesterol than non-Hispanic Whites (6.8%), and Non-Hispanic Blacks (5.6%). Among women 60 years and older, there was no significant difference in the prevalence of serum total cholesterol levels among the three different races.
 
