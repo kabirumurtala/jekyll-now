@@ -2,7 +2,7 @@ Hypertension, also called high blood pressure is a condition that occurs when th
 
 Normal blood pressure is defined as blood pressure that is less than 120/80 mm Hg (systolic blood pressure less than 120 mm Hg and diastolic blood pressure less than 80 mm Hg) most of the time. On the other hand, high blood pressure is defined as blood pressure is greater than or equal to 140/90 mm Hg (systolic blood pressure greater than or equal to 140 mm Hg and diastolic blood pressure greater than or equal to 90 mm Hg) most of the time. A systolic blood pressure persistently between 120 to 139 mm Hg or a diastolic blood pressure persistently between 80 to 89 mm Hg is defined as prehypertension. Individuals with prehypertension have a higher risk of developing heart disease than those with normal blood pressure. Overall, the prevalence of prehypertension among U.S. adults was 23.9% in 2014. Male (29.4%) adults had significantly higher prevalence of prehypertension than female (18.5%) adults.
 
-Image1
+![Prevalence of hypertension among US adults by gender, 2014](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/hypertension1.png)
 
 Causes of hypertension among US adults
 --------------------------------------
@@ -16,7 +16,7 @@ Primary hypertension has many risk factors, including:
 -   Age: The risk of hypertension increases with advancing age. In the U.S, the overall prevalence of hypertension among adults was 30.8%% in 2014 and increased with age: 18-24 (2.5%), 25-44 (12.9%), 45-64 (41.2%), and 65+ (69.5%).
 -   Race: Non-Hispanic blacks have the highest risk of hypertension. In 2014, the prevalence of hypertension was higher among non-Hispanic black (42.4%) than non-Hispanic white (29.9%), Hispanic (28.1%), or non-Hispanic Asian (27.1%) adults.
 
-Image2
+![Prevalence of hypertension among US adults by race, 2014](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/hypertension2.png)
 
 -   Gender: The risk between males and females is different when stratified by age. Below the age of 45 years, hypertension is more common in men. After the age of 65 years, women are more likely to develop hypertension than men.
 
@@ -58,11 +58,11 @@ Among all U.S. adults with hypertension, 80.6% were aware of their hypertension,
 
 Overall, the awareness of hypertension was higher among non-Hispanic White (83.6%) than non-Hispanic Asian (68.2%) adults. Non-Hispanic White (69.3%) and non-Hispanic Black (63.6%) adults were more likely to be on medication for hypertension than non-Hispanic Asian (48.2%) adults. Also, non-Hispanic White (55.7%) adults had a higher prevalence of controlled high blood pressure, compared with non-Hispanic Black (39.9%), Hispanic (40.6%), and non-Hispanic Asian (34.5%) adults.
 
-Image3
+![Awarenes, medication use, and blood pressure control among US adults with hypertension, by race](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/hypertension3.png)
 
 More females (86.8%) than males (76.5%) had higher awareness of hypertension. However, there was no statistically significant difference between the prevalence of hypertension medication between females and males.
 
-Image4
+![Awarenes, medication use, and blood pressure control among US adults with hypertension, by gender](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/hypertension4.png)
 
 Data Source
 -----------
