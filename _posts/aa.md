@@ -1,0 +1,12 @@
+A Papanicolaou smear is also called a Pap test. It is typically conducted in a doctor's office, during which cells are scraped from the cervix (the opening of the uterus, above the vagina). The collected specimen is sent to the laboratory where the laboratory pathologist or technician examines the cells under a microscope, checking for abnormal cells, particularly precancerous or cancerous cells. Early detection of precancerous cells provides the patient and her health care provider a window of opportunity to conduct more tests and provide effective and proven therapy, thereby preventing a possible progression to cervical cancer. In cases where the abnormal cells are already cancerous, early detection is associated with better treatment outcome. Data shows that 4 out of every 5 women diagnosed with invasive cancer of the cervix have not had a Pap smear in the past 5 years.
+
+The Papanicolaou smear is one of the most effective and reliable cancer screening tests available and it is recommended for all women between the ages of 21 and 65 years old. It is recommended that women 21 years or older get a Pap test to screen for cervical cancer every 3 years. For women over the age of 30 years who have had three normal Pap tests in a row, screening may be carried out every 5 years if a Pap smear and test for human papillomavirus (HPV) are performed. Women over the age of 65 years or who have had three or more normal Pap tests in a row and no abnormal Pap test results in the last 10 years may decide to stop having Pap tests.
+
+In 2014, the overall age-adjusted pap test screening rate among women aged 21-65 years in the United States was 82.7%, which was below the target of 93%. The screening rates varied significantly among the states in the union. Connecticut and Massachusetts had screening rates above 87.1% while Idaho, Oklahoma, Arkansas, Utah, Hawaii, and Texas had screening rates below 78.0%.
+
+![age-adjusted papanicolaou smear screening rate among american adult women aged 21-65 years, 2014](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/papSmear20180814.png)
+
+Data Source
+-----------
+
+Data was obtained from the Behavioral Risk Factor Surveillance System (BRFSS) 2014. BRFSS is a state-based surveillance system that collects information of the non-institutionalized civilian population in the U.S. using random-digit-dialed landline and cellular phones. More information on the sampling methodology can be found [here](https://www.cdc.gov/brfss/).
