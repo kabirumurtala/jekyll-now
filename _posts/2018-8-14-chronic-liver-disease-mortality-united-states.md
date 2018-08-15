@@ -41,7 +41,7 @@ In the United States, the mortality rates without liver transplantation in patie
 
 In 2014, the crude chronic liver disease mortality in the United States was 12 deaths per 100,000 population, and the age-adjusted mortality rate was 10.4 deaths per 100,000 population. As seen in the map below, Hawaii and mostly states in the Midwest and Northeast had the lowest (age adjusted) mortality rates. The highest (age adjusted) mortality rates were in South Dakota and New Mexico.
 
-Image
+![Age adjusted prevalence of chronic liver disease mortality in the United States, 2014](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/CLD.png)
 
 Data Source
 -----------
