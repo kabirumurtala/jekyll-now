@@ -1,0 +1,12 @@
+Smoking is the [single greatest cause](http://www.who.int/tobacco/global_report/2011/en/) of preventable death in the world. Approximately 50% of those who smoke will [eventually die](http://www.who.int/en/news-room/fact-sheets/detail/tobacco) due to the adverse effects of smoking. Globally, smoking causes approximately 6 million deaths annually, and it is estimated that this will rise to more than 8 million deaths annually by 2030 if the current trend continues. According to the [2014 Surgeon General's report](http://www.surgeongeneral.gov/library/reports/50-years-of-progress/full-report.pdf), smoking is the leading cause of preventable disease and death in the United States, causing 20% of all deaths - close to half a million deaths annually. In 2014, the prevalence of cigarette smoking among US adults aged 18 years or older was 16.8% (40 million adults).
+
+Hundreds of chemicals can be found in cigarette smoke that cause damage to many of the body's organs and systems. Individuals exposed to these harmful chemicals are known to have higher risks of developing cardiovascular diseases (including hypertension, heart attacks, and strokes), chronic obstructive pulmonary disease (particularly emphysema and chronic bronchitis), and cancer (such as lung, throat, mouth, kidneys, bladder, cervical, and pancreatic cancer).
+
+There are significant variations in current adult smoking rates among the different states in the US. Overall, states in the Northeast and the West had the lowest smoking rates, while states in the South and Midwest had the highest smoking rates. Current adult cigarette smoking rate was highest in Arkansas, Kentucky, and West Virginia with age-adjusted prevalence rates greater than 25%. Utah had the lowest prevalence rate of adult smokers (less than 10%).
+
+![Current cigarette smoking among American adults aged 18 years and above, BRFSS 2014](https://raw.githubusercontent.com/kabirumurtala/kabirumurtala.github.io/master/_posts/figure/cigarette20180815.png)
+
+Data Source
+-----------
+
+Data on the current cigarette smoking among US adults aged 18 years and above was obtained from the Behavioral Risk Factor Surveillance System (BRFSS) 2014. BRFSS is a state-based surveillance system that collects information of the non-institutionalized civilian population in the U.S. using random-digit-dialed landline and cellular phones. More information on the sampling methodology can be found [here](http://www.cdc.gov/brfss/).
